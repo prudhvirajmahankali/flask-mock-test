@@ -1,0 +1,222 @@
+[
+  {
+    "customer_id": "CUST001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john1@example.com",
+    "phone": "9000000001",
+    "address": "Hyderabad",
+    "date_of_birth": "1990-01-15",
+    "account_balance": 12000.50,
+    "created_at": "2024-01-01T10:00:00"
+  },
+  {
+    "customer_id": "CUST002",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane2@example.com",
+    "phone": "9000000002",
+    "address": "Bangalore",
+    "date_of_birth": "1992-03-20",
+    "account_balance": 15000.75,
+    "created_at": "2024-01-02T11:00:00"
+  },
+  {
+    "customer_id": "CUST003",
+    "first_name": "Ravi",
+    "last_name": "Kumar",
+    "email": "ravi3@example.com",
+    "phone": "9000000003",
+    "address": "Chennai",
+    "date_of_birth": "1988-07-12",
+    "account_balance": 9800.00,
+    "created_at": "2024-01-03T09:30:00"
+  },
+  {
+    "customer_id": "CUST004",
+    "first_name": "Anita",
+    "last_name": "Sharma",
+    "email": "anita4@example.com",
+    "phone": "9000000004",
+    "address": "Delhi",
+    "date_of_birth": "1995-11-25",
+    "account_balance": 20000.00,
+    "created_at": "2024-01-04T14:20:00"
+  },
+  {
+    "customer_id": "CUST005",
+    "first_name": "Arjun",
+    "last_name": "Reddy",
+    "email": "arjun5@example.com",
+    "phone": "9000000005",
+    "address": "Visakhapatnam",
+    "date_of_birth": "1993-05-10",
+    "account_balance": 17500.25,
+    "created_at": "2024-01-05T16:00:00"
+  },
+  {
+    "customer_id": "CUST006",
+    "first_name": "Priya",
+    "last_name": "Nair",
+    "email": "priya6@example.com",
+    "phone": "9000000006",
+    "address": "Kochi",
+    "date_of_birth": "1991-08-18",
+    "account_balance": 13200.40,
+    "created_at": "2024-01-06T12:45:00"
+  },
+  {
+    "customer_id": "CUST007",
+    "first_name": "Kiran",
+    "last_name": "Patel",
+    "email": "kiran7@example.com",
+    "phone": "9000000007",
+    "address": "Ahmedabad",
+    "date_of_birth": "1987-09-09",
+    "account_balance": 8900.00,
+    "created_at": "2024-01-07T10:10:00"
+  },
+  {
+    "customer_id": "CUST008",
+    "first_name": "Sneha",
+    "last_name": "Gupta",
+    "email": "sneha8@example.com",
+    "phone": "9000000008",
+    "address": "Lucknow",
+    "date_of_birth": "1996-02-14",
+    "account_balance": 21000.60,
+    "created_at": "2024-01-08T13:15:00"
+  },
+  {
+    "customer_id": "CUST009",
+    "first_name": "Rahul",
+    "last_name": "Verma",
+    "email": "rahul9@example.com",
+    "phone": "9000000009",
+    "address": "Pune",
+    "date_of_birth": "1994-06-30",
+    "account_balance": 11200.00,
+    "created_at": "2024-01-09T17:00:00"
+  },
+  {
+    "customer_id": "CUST010",
+    "first_name": "Meena",
+    "last_name": "Iyer",
+    "email": "meena10@example.com",
+    "phone": "9000000010",
+    "address": "Coimbatore",
+    "date_of_birth": "1990-12-05",
+    "account_balance": 14500.00,
+    "created_at": "2024-01-10T09:00:00"
+  },
+  {
+    "customer_id": "CUST011",
+    "first_name": "Vikram",
+    "last_name": "Singh",
+    "email": "vikram11@example.com",
+    "phone": "9000000011",
+    "address": "Jaipur",
+    "date_of_birth": "1989-04-22",
+    "account_balance": 16700.75,
+    "created_at": "2024-01-11T11:30:00"
+  },
+  {
+    "customer_id": "CUST012",
+    "first_name": "Pooja",
+    "last_name": "Mehta",
+    "email": "pooja12@example.com",
+    "phone": "9000000012",
+    "address": "Surat",
+    "date_of_birth": "1997-01-19",
+    "account_balance": 9200.00,
+    "created_at": "2024-01-12T08:40:00"
+  },
+  {
+    "customer_id": "CUST013",
+    "first_name": "Suresh",
+    "last_name": "Naidu",
+    "email": "suresh13@example.com",
+    "phone": "9000000013",
+    "address": "Tirupati",
+    "date_of_birth": "1985-10-10",
+    "account_balance": 13400.00,
+    "created_at": "2024-01-13T15:20:00"
+  },
+  {
+    "customer_id": "CUST014",
+    "first_name": "Divya",
+    "last_name": "Rao",
+    "email": "divya14@example.com",
+    "phone": "9000000014",
+    "address": "Mysore",
+    "date_of_birth": "1998-07-07",
+    "account_balance": 15600.00,
+    "created_at": "2024-01-14T10:00:00"
+  },
+  {
+    "customer_id": "CUST015",
+    "first_name": "Manoj",
+    "last_name": "Das",
+    "email": "manoj15@example.com",
+    "phone": "9000000015",
+    "address": "Bhubaneswar",
+    "date_of_birth": "1993-03-03",
+    "account_balance": 8700.00,
+    "created_at": "2024-01-15T14:00:00"
+  },
+  {
+    "customer_id": "CUST016",
+    "first_name": "Lakshmi",
+    "last_name": "Devi",
+    "email": "lakshmi16@example.com",
+    "phone": "9000000016",
+    "address": "Vijayawada",
+    "date_of_birth": "1991-11-11",
+    "account_balance": 19000.00,
+    "created_at": "2024-01-16T09:25:00"
+  },
+  {
+    "customer_id": "CUST017",
+    "first_name": "Amit",
+    "last_name": "Joshi",
+    "email": "amit17@example.com",
+    "phone": "9000000017",
+    "address": "Nagpur",
+    "date_of_birth": "1986-05-17",
+    "account_balance": 11000.00,
+    "created_at": "2024-01-17T12:10:00"
+  },
+  {
+    "customer_id": "CUST018",
+    "first_name": "Neha",
+    "last_name": "Kapoor",
+    "email": "neha18@example.com",
+    "phone": "9000000018",
+    "address": "Chandigarh",
+    "date_of_birth": "1999-09-29",
+    "account_balance": 22000.00,
+    "created_at": "2024-01-18T16:45:00"
+  },
+  {
+    "customer_id": "CUST019",
+    "first_name": "Ramesh",
+    "last_name": "Yadav",
+    "email": "ramesh19@example.com",
+    "phone": "9000000019",
+    "address": "Patna",
+    "date_of_birth": "1984-02-02",
+    "account_balance": 7600.00,
+    "created_at": "2024-01-19T08:30:00"
+  },
+  {
+    "customer_id": "CUST020",
+    "first_name": "Kavya",
+    "last_name": "Shetty",
+    "email": "kavya20@example.com",
+    "phone": "9000000020",
+    "address": "Mangalore",
+    "date_of_birth": "1996-06-06",
+    "account_balance": 14200.00,
+    "created_at": "2024-01-20T13:00:00"
+  }
+]
